@@ -1,0 +1,8 @@
+com\example\solaceconnector\SolaceDynamicTableSource.class
+com\example\solaceconnector\message_builder\JMSPayloadBuilder.class
+com\example\solaceconnector\SolaceJMSFactory.class
+com\example\solaceconnector\DynamicMsgDeserializer.class
+com\example\solaceconnector\MessageProcessor.class
+com\example\solaceconnector\SolaceJMSQueueSource.class
+com\example\solaceconnector\message_builder\JMSHeadersBuilder.class
+com\example\solaceconnector\SolaceOptions.class
