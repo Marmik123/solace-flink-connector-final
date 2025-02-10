@@ -1,4 +1,4 @@
-# solace-flink-connector-final
+# Solace connector for Flink
 
 This connector integrates Solace JMS with Apache Flink, allowing users to:
 ✅ Stream data from Solace queues into Flink
